@@ -21,3 +21,8 @@ DataWorks Summit 2019 Barcelona Spain
 * https://community.hortonworks.com/content/kbentry/239961/using-cloudera-data-science-workbench-with-apache.html
 
 
+## Python Setup
+
+pip install -U spacy
+python -m spacy download en
+
